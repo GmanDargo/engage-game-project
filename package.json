@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevEngage/engage-game-project.git"
+    "url": "git+https://github.com/GmanDargo/engage-game-project.git"
   },
-  "author": "",
+  "author": "Michael Gburski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DevEngage/engage-game-project/issues"
+    "url": "https://github.com/GmanDargo/engage-game-project/issues"
   },
-  "homepage": "https://github.com/DevEngage/engage-game-project#readme",
+  "homepage": "https://github.com/GmanDargo/engage-game-project#readme",
   "devDependencies": {
     "node-sass": "^3.7.0",
     "sass-loader": "^3.2.0",
